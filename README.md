@@ -6,4 +6,4 @@ I am interested in FreeBSD, Shell Script, C, and Python
 
 I also make documetation and such
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=es-j3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
