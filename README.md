@@ -1,5 +1,5 @@
-I am interested in FreeBSD, Shell Script, HTML/CSS, C, and Python
+👋 Hey
 
-> Known for projects like https://github.com/es-j3/steam-bottler (Now archived)
+I am an aspiring CS student currently learning C, Python, Javascript, and HTML/CSS.
 
-I also create documentation and write scripts to improve the FreeBSD desktop experience.
+Previously (and maybe soon returning) script maker / tutorial drafter for making FreeBSD more normie-friendly. 
